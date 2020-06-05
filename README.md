@@ -11,4 +11,4 @@ g++ Line.o Experiment.o Shader.o main.o LSystem.o Object.o Util.o -o main -lGL -
 
 ./main
 
-![Image alt] https://github.com/d00m1r/tree3D/blob/master/tree.png
+![Image alt](https://github.com/d00m1r/tree3D/blob/master/tree.png)
